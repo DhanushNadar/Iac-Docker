@@ -33,7 +33,7 @@ Provision a Docker container using Terraform on your local machine.
 ## 🖼️ Tf files Screenshots
 
 ![providerstf Screenshot](images/providerstf.png)
-![main tf Screenshot](images/mainttf.png)
+![main tf Screenshot](images/maintf.png)
 ![main page Screenshot](images/main.png)
 
 ## 🚀 How to Run
